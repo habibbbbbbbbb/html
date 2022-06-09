@@ -1,0 +1,52 @@
+
+.container-1 {
+  display: flex;
+  flex-direction: row;
+ 
+}
+
+.part-1 {
+  display: flex;
+  align-items: center;
+  margin-left: 100px;
+}
+.image {
+  width: 40px;
+  height: 40px;
+  border-radius: 25px;
+}
+
+.oliver {
+  font-family: Arial;
+  font-weight: bold;
+  margin-left: 10px;
+}
+
+
+.part-2 {
+  margin-left: 480px;
+
+
+
+}
+
+.btn-1,
+.btn-2{
+  font-family: Arial;
+  border: none;
+  border-radius: 5px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.btn-1 {
+  background-color: rgb(50, 132, 226) ;
+  color: white;
+}
+
+.btn-2 {
+  background-color: rgb(236, 236, 236);
+  font-weight: 700;
+  margin-left: 5px;
+}

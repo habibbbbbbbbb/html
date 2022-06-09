@@ -1,0 +1,51 @@
+.search {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 30px;
+    border-radius: 10px;
+    border-width: 1px;
+    border-style: solid;
+  
+    }
+  
+    .search1{
+      padding-top: 10px;
+      padding-bottom: 10px;
+      padding-right: 200px;
+      padding-left: 10px;
+      border: none;
+      border-radius: 20px;
+      margin-left: 20px;
+      box-shadow:  5px 5px 10px rgba(0, 0, 0, 0.15);
+    }
+    
+  .mail {
+  color: rgb(100, 97, 97);
+  margin-bottom: 5px;
+  
+  }
+  .signup {
+    padding-right: 200px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+    border-style: solid;
+    margin-bottom: 10px;
+  }
+  
+  .agree {
+    color: rgb(100, 97, 97);
+  }
+  .join {
+  width: 370px;
+  height: 50px;
+  font-size: 20px;
+  background-color: rgb(42, 118, 218);
+  color: white;
+  border: none;
+  border-radius: 20px;
+  cursor: pointer;
+  
+  }
+

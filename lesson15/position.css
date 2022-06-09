@@ -1,0 +1,57 @@
+.container {
+  position: relative;
+  width:400px;
+
+}
+
+
+
+.relative-container {
+  position: relative;
+  width:400px;
+  display: inline-block;
+}
+
+
+.clothe {
+  width: 400px;
+}
+
+
+.discount {
+  background-color: black;
+  color: white;
+  font-family: Arial;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 12px;
+  padding-right: 12px;
+  position: absolute;
+  top: 10px;
+  right: 0;
+}
+
+
+.relative-container-1 {
+  position: absolute;
+  bottom: 0;
+  width: 400px;
+  height: 80px;
+  background-color: rgb(248, 248, 248);
+  opacity: 0.5;
+}
+
+.button-purshace {
+ position: absolute;
+ font-family: Arial;
+ background-color: rgb(255, 255, 255) ;
+ padding-top: 5px;
+ padding-bottom: 5px;
+ padding-left: 15px;
+ padding-right: 15px;
+ cursor: pointer;
+ display: flex;
+ flex-direction: row;
+ bottom: 25px;
+ left: 150px;
+}
